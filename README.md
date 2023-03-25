@@ -1,7 +1,7 @@
 # Startup_Profit_prediction_ML_Project
 
 # Website Link
-https://share.streamlit.io/git5v/startup_profit_prediction_ml_project/main/main.py
+https://nuke010-profit-prediction-5-main-bzt8rv.streamlit.app/
 
 This is a startup's profit prediction model which predicts the 
 profit of startup.This machine learning model will be quite helpful in 
